@@ -1,5 +1,6 @@
 #compare numpy vs python list
 #speed difference between numpy and python lists
+
 import time
 size_of_vec = 10000
 
